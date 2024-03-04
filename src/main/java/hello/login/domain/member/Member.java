@@ -1,8 +1,9 @@
-package hello.login.web.member;
+package hello.login.domain.member;
 
 import lombok.Data;
 
 import javax.validation.constraints.NotEmpty;
+
 @Data
 public class Member {
 
